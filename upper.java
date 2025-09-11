@@ -1,4 +1,4 @@
-class str{
+class strTest{
     public static void main(String[] args) {
         String a ="Hello";
         String b="hello";
@@ -15,4 +15,5 @@ class str{
             System.out.println("they are not equal");
         }
     }
+
 }
