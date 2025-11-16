@@ -1,4 +1,4 @@
-//Kirlosk
+
 import java.util.Scanner;
 
 public class TemperatureConverter {
@@ -35,3 +35,4 @@ public class TemperatureConverter {
         scanner.close();
     }
 }
+
